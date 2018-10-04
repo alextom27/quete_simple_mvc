@@ -1,0 +1,15 @@
+{
+    "name": "wilder/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Alexandre Tomaszewski",
+            "email": "alextom27@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

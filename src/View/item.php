@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head> ... </head>
+<head> </head>
 <body>
     <section>
         <h1>Items</h1>
@@ -9,7 +9,6 @@
                 <li><?= $item['title'] ?></li>
             <?php endforeach ?>
             </ul>
-        </section>
+    </section>
 </body>
 </html>
-
